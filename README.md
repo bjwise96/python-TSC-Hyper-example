@@ -1,7 +1,7 @@
 # python-TSC-Hyper-example
 This code was created while working on the API Level 2 challenge (https://www.tableau.com/developer/mini-challenges).  
 
-##Prereqs
+## Prereqs
 You will need to install:
 - Python 3
 - Tableau Server Client https://github.com/tableau/server-client-python
@@ -11,10 +11,10 @@ You will also need to create an env.yaml file and put it in the root folder of y
 
 Finally create a project named HyperTest on your Tableau server.  
 
-##Running the code
+## Running the code
 `python3 ./workbooks.py`
 
-##Output
+## Output
 This will create two local files
 1. workbooks.csv
 1. workbooks.hyper
