@@ -1,5 +1,5 @@
 # python-TSC-Hyper-example
-This code was created while working on the API Level 2 challenge (https://www.tableau.com/developer/mini-challenges).  
+This code was created while working on the API Level 2 challenge (https://www.tableau.com/developer/mini-challenges).  This code connects to you Tableau server, downloads information about all the workbooks on your server and then uploads this dataset as a hyper file to your server.  You can then create visuaizations based on this data.  To refresh this data, run this code again and it will refresh the data.
 
 ## Prereqs
 You will need to install:
